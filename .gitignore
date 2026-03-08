@@ -27,12 +27,15 @@ wheels/
 *.db
 *.sqlite
 *.sqlite3
+!backend/chroma_db/chroma.sqlite3
 smart_farmer.db
 
 # Environment variables
 .env
 .env.local
 .env.*.local
+!.env.example
+.env.aws
 
 # IDE
 .vscode/
@@ -41,6 +44,7 @@ smart_farmer.db
 *.swo
 *~
 .DS_Store
+.trae/
 
 # Flutter
 mobile/.dart_tool/
@@ -64,6 +68,8 @@ yarn-error.log*
 
 # Docker
 docker-compose.override.yml
+.docker/
+.docker-custom/
 
 # Testing
 .coverage
@@ -85,3 +91,21 @@ temp/
 # OS
 Thumbs.db
 .DS_Store
+
+# Project Specific
+deployment/
+.aws-sam/
+backend/package/
+*.zip
+*.pkg
+.venv/
+backend/.venv/
+backend/cache/
+debug_*.py
+.kiro/*
+!.kiro/specs/
+
+# Secrets & Artifacts
+ecr_password.txt
+packaged-template.yaml
+template-packaged.yaml
