@@ -1,0 +1,50 @@
+# Tomato Crop Advisory (ANGRAU/ICAR Guidelines)
+
+## Variety Selection (Andhra Pradesh)
+- **Summer (Kharif)**: PKM-1, Arka Vikas, Arka Saurabh.
+  - *Sowing*: June-July.
+  - *Harvest*: September-October.
+- **Winter (Rabi)**: Pusa Ruby, Roma, Rashmi.
+  - *Sowing*: October-November.
+  - *Harvest*: January-February.
+- **Hybrids**: US-440, Lakshmi, Naveen.
+  - *Yield*: 60-80 tonnes/ha (vs 20-30 for open-pollinated).
+  - *Best for*: Long-distance transport (thick skin).
+
+## Integrated Pest Management (IPM)
+- **Fruit Borer (Helicoverpa armigera)**:
+  - *Symptom*: Circular holes in fruits; excreta seen near holes.
+  - *Prevention*: Install 10 pheromone traps/ha. Use Marigold as trap crop (1:16 rows).
+  - *Treatment*: Spray 5% NSKE (Neem Seed Kernel Extract) or Spinosad 45 SC @ 0.3ml/L.
+- **Early Blight (Alternaria solani)**:
+  - *Symptom*: Concentric rings (target board effect) on lower leaves; dark spots.
+  - *Condition*: High humidity (>90%) and warm temp (24-29°C).
+  - *Treatment*: Spray Mancozeb @ 2.5g/L or Chlorothalonil @ 2g/L.
+- **Leaf Curl Virus**:
+  - *Vector*: Whitefly (Bemisia tabaci).
+  - *Symptom*: Upward curling, stunted growth.
+  - *Management*: Remove infected plants immediately. Install yellow sticky traps. Use Imidacloprid seed treatment.
+
+## Harvesting Indices
+- **Mature Green**: For long-distance markets (>4 days transport). Fruit is full size but green; jelly formation complete.
+- **Breaker**: For medium distance (2-4 days). <10% surface is pink/tannish-yellow. Best balance of flavor and shelf life.
+- **Turning/Pink**: For local markets (<2 days). 10-30% surface is pink/red.
+- **Red Ripe**: For immediate consumption/processing. >90% red. Highest lycopene content but very short shelf life.
+
+# Onion Crop Advisory (Maharashtra/Karnataka/AP Practices)
+
+## Post-Harvest Curing (Crucial for Storage)
+- **Definition**: Drying of outer scales and tightening of neck to prevent entry of pathogens.
+- **Method**:
+  1. *Field Curing*: Leave bulbs in windrows for 3-5 days in shade (cover with leaves to prevent sunscald).
+  2. *Shade Curing*: Spread in well-ventilated sheds for 10-15 days until neck is completely dry and thin.
+- **Impact**: Reduces storage rot (Aspergillus/Erwinia) by 40-50%. Increases shelf life to 4-6 months.
+
+## Storage Structures
+- **Traditional Chawl**: Raised bamboo structure with side ventilation.
+- **Improved Bottom Ventilated Structure**: Needs 60cm gap from ground. Use concentric rings for airflow.
+- **Conditions**: Temp: 25-30°C, RH: 65-70%. (High humidity causes sprouting/rooting; High temp increases respiration).
+
+## Common Storage Diseases
+- **Black Mold (Aspergillus niger)**: Black powdery mass on scales. Caused by high temp/moisture.
+- **Soft Rot (Erwinia carotovora)**: Foul smell, internal tissue becomes watery. Caused by mechanical injury during harvest.

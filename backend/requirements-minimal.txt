@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+mangum
+chromadb
+boto3
+botocore
+requests
+httpx
+pydantic
+python-dotenv
